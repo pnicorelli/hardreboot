@@ -2,9 +2,10 @@
 
 cd /tmp/
 
-## ATOM EDITOR
-curl -L https://atom.io/download/deb > atom.deb
-dpkg -i atom.deb
+### use apt is the best way
+# ## ATOM EDITOR
+# curl -L https://atom.io/download/deb > atom.deb
+# dpkg -i atom.deb
 
 
 ## NODEJS (with n to avoid versioning issue)

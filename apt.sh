@@ -21,4 +21,5 @@ apt-get update
 apt-get install -y atom
 
 ##
-apt-get install -y network-manager-openvpn-gnome cups-pdf
+#apt-get install -y network-manager-openvpn-gnome
+apt-get install -y cups-pdf
